@@ -1,0 +1,10 @@
+feature,t_stat,p_value,significant
+age,,,False
+ssc_percentage,,,False
+hsc_percentage,,,False
+degree_cgpa,,,False
+coding_score,,,False
+aptitude_score,,,False
+attendance,,,False
+internships,,,False
+projects,,,False

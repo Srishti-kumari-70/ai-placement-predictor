@@ -1,0 +1,14 @@
+==================================================
+HYPERPARAMETER TUNING SUMMARY
+==================================================
+
+Timestamp: 2026-09-21 12:19:28.894617
+Best parameters: {'colsample_bytree': 0.8, 'gamma': 0.2, 'learning_rate': 0.2, 'max_depth': 6, 'n_estimators': 50, 'subsample': 0.8}
+Best CV score: 0.8962
+
+------------------------------
+COMPARISON
+------------------------------
+Baseline model accuracy: 91.00%
+Tuned model accuracy: 91.00%
+Improvement: 0.00%

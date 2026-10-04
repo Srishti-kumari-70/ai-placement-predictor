@@ -1,0 +1,10 @@
+feature,t_stat,p_value,significant
+age,-0.698,0.485,False
+ssc_percentage,4.333,0.0,True
+hsc_percentage,3.616,0.0003,True
+degree_cgpa,4.583,0.0,True
+coding_score,6.019,0.0,True
+aptitude_score,6.253,0.0,True
+attendance,1.815,0.0695,False
+internships,3.542,0.0004,True
+projects,1.854,0.0638,False

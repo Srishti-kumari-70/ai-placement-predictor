@@ -1,0 +1,62 @@
+{
+  "initial_shape": [
+    1000,
+    12
+  ],
+  "dropped_columns": [],
+  "duplicates_removed": 0,
+  "outliers_capped": {
+    "ssc_percentage": {
+      "count": 4,
+      "lower": 44.35,
+      "upper": 95.78999999999999
+    },
+    "hsc_percentage": {
+      "count": 5,
+      "lower": 37.81750000000001,
+      "upper": 102.2375
+    },
+    "degree_cgpa": {
+      "count": 2,
+      "lower": 4.915000000000001,
+      "upper": 10.155
+    },
+    "coding_score": {
+      "count": 16,
+      "lower": 23.23795185124101,
+      "upper": 105.9687706575269
+    },
+    "aptitude_score": {
+      "count": 15,
+      "lower": 22.880908454108386,
+      "upper": 105.49402660480135
+    },
+    "projects": {
+      "count": 13,
+      "lower": 1.5,
+      "upper": 5.5
+    },
+    "attendance": {
+      "count": 13,
+      "lower": 53.53855030029975,
+      "upper": 107.17104110213968
+    }
+  },
+  "imputation_config": {
+    "ssc_percentage": "mean",
+    "hsc_percentage": "mean",
+    "degree_cgpa": "median",
+    "coding_score": "median",
+    "aptitude_score": "median",
+    "attendance": "median",
+    "internships": "mode",
+    "projects": "mode",
+    "age": "median"
+  },
+  "final_shape": [
+    1000,
+    21
+  ],
+  "remaining_missing": 0,
+  "timestamp": "2026-10-04T12:57:38.676096"
+}
