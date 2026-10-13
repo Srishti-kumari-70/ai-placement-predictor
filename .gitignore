@@ -4,5 +4,4 @@ __pycache__/
 .venv311/
 .venv-1/
 *.log
-reports/explainability/
 reports/
