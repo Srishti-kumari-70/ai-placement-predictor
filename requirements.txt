@@ -1,6 +1,6 @@
-streamlit
+streamlit>=1.45.0
 pandas
-numpy
+numpy<2
 plotly
 scikit-learn
 xgboost
@@ -12,4 +12,4 @@ seaborn
 scipy
 sentence-transformers
 transformers
-torch
+torch==2.2.2

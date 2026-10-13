@@ -1,3 +1,0 @@
-model,accuracy,test_set_size
-Baseline,0.91,200
-Tuned,0.91,200

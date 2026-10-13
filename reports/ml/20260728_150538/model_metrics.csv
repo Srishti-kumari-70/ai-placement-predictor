@@ -1,3 +1,0 @@
-model,cv_accuracy,test_accuracy,roc_auc
-rf,0.6,0.59,0.6411
-xgb,0.59,0.62,0.6109

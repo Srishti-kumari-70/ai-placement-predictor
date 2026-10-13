@@ -1,5 +1,0 @@
-,age,age,age,ssc_percentage,ssc_percentage,ssc_percentage,hsc_percentage,hsc_percentage,hsc_percentage,degree_cgpa,degree_cgpa,degree_cgpa,coding_score,coding_score,coding_score,aptitude_score,aptitude_score,aptitude_score,attendance,attendance,attendance,internships,internships,internships,projects,projects,projects
-,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std
-placement_status,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Not_Placed,20.63,20.0,1.42,69.55,70.21,9.44,69.08,69.52,11.28,7.41,7.45,0.91,62.41,63.18,15.73,63.03,63.63,14.94,80.15,80.53,10.25,1.23,1.0,1.12,1.97,2.0,1.37
-Placed,20.64,20.5,1.35,71.96,71.6,8.72,72.51,71.57,11.61,7.75,7.68,0.95,70.61,69.87,13.79,68.66,68.6,14.23,81.18,81.1,9.27,1.17,1.0,1.04,2.0,2.0,1.47
