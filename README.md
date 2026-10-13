@@ -104,12 +104,21 @@
 
 ## 📂 Project Structure
 ├── app.py # Main Streamlit app (4 pages)
+
 ├── job_role_matcher.py # ESCO-based semantic matching
+
 ├── project_analyzer.py # Zero-shot NLP analyzer
+
 ├── recommendation_engine.py # Rule-based recommendations
+
 ├── model_training.py # XGBoost + RF training
+
 ├── feature_engineering.py # 8 engineered features
+
 ├── eda_analysis.py # EDA + T-tests
+
 ├── models/ # Trained .pkl models
+
 ├── esco/ # ESCO taxonomy CSVs
+
 └── datadb/ # Dataset + SQLite database
